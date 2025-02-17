@@ -8,9 +8,10 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
- <img src="Screenshot 2025-02-06 205646.png" alt="Markdownify" width="200" ></img>
-  <img src="Screenshot 2025-02-06 205615.png" alt="Markdownify" width="200" ></img>
-   <img src="Screenshot 2025-02-06 205546.png" alt="Markdownify" width="200" ></img>
+ <img src="Screenshot 2025-02-06 205646.png" alt="Main" width="200" ></img>
+  <img src="Screenshot 2025-02-06 205615.png" alt="first" width="200" ></img>
+   <img src="Screenshot 2025-02-06 205546.png" alt="second" width="200" ></img>
+    <img src="Screenshot 2025-02-06 205546.png" alt="therd" width="200" ></img>
 
 ## Key Features
 

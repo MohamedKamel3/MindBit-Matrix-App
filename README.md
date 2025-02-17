@@ -15,7 +15,7 @@
 
 ## Key Features
 
- * java Matrix Calculater
+ * <b>java Matrix Calculater</b>
  * Matrix Operations:
     - Add new matrices.
     - Perform matrix-related operations (e.g., determinant calculation).

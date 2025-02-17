@@ -15,10 +15,6 @@
 
 ## Key Features
 
-* full calculator with some features : 
-  - calculate volume, area and perimeter of some shapes
-  - solve 2 or 3 equations and equation of second degree
-
  * Matrix Operations:
     - Add new matrices.
     - Perform matrix-related operations (e.g., determinant calculation).
@@ -38,6 +34,10 @@
     - Random matrix generation option.
     - Confirmation buttons to save inputs.
 
+ * additional features :
+    - to see this feature you must open the project from the first folder ( the folder before matrix folder )
+    - sounds
+    - logo 
 
 ## How To Use
 

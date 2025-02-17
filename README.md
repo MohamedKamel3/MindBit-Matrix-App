@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
- <img src="MatrixWithSort\matrix\logo2.png" alt="MindBit" width="200" ></img>
+ <img src="matrix\logo2.png" alt="MindBit" width="200" ></img>
 </h1>
 <p align="center">
   <a href="#key-features">Key Features</a> •

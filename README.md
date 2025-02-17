@@ -8,23 +8,61 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
- <img src="Screenshot 2025-02-06 205646.png" alt="Main" width="200" ></img>
-  <img src="Screenshot 2025-02-06 205615.png" alt="first" width="200" ></img>
-   <img src="Screenshot 2025-02-06 205546.png" alt="second" width="200" ></img>
-    <img src="Screenshot 2025-02-06 205546.png" alt="therd" width="200" ></img>
+ <img src="Screenshot 2025-02-17 203336.png" alt="Main" width="200" ></img>
+  <img src="Screenshot 2025-02-17 203407.png" alt="first" width="200" ></img>
+   <img src="Screenshot 2025-02-17 203434.png" width="200" ></img>
+    <img src="Screenshot 2025-02-17 203527.png" alt="therd" width="200" ></img>
 
 ## Key Features
 
 * full calculator with some features : 
   - calculate volume, area and perimeter of some shapes
-  - solve 2 or 3 equations and equation of second degree 
+  - solve 2 or 3 equations and equation of second degree
 
+ * Matrix Operations:
+    - Add new matrices.
+    - Perform matrix-related operations (e.g., determinant calculation).
+    - Sort matrices.
+      
+ * Equation Solver:
+    - Solve linear equations based on matrix inputs.
+    - Display equations and results clearly.
+
+ * Matrix Storage & History:
+    - Save matrices for later use.
+    - View previously saved matrices in the history section.
+    - Edit or delete stored matrices.
+ 
+ * User-Friendly Interface:
+    - Navigation buttons for easy access (Back, Home).
+    - Random matrix generation option.
+    - Confirmation buttons to save inputs.
 
 
 ## How To Use
 
 unzip it and run main file ❤️
 
+* Creating a New Matrix:
+  - Click on "Add New Matrix."
+  - Enter matrix values manually or use the "Random" button.
+  - Confirm and save the matrix.
+
+* Performing Matrix Operations:
+  - Select operations like Determinant or Sorting.
+  - The app processes and displays results.
+
+* Solving Equations:
+  - Navigate to the "Solve Equations" section.
+  - Enter coefficients and constants for the system of equations.
+  - View computed results for variables.
+
+* Accessing Saved Matrices:
+  - Use the "History" section to view previously stored matrices.
+  - Edit or delete matrices as needed.
+
+* Navigation:
+  - Use Back and Home buttons for smooth transitions between screens.
 
 ## Support
 
